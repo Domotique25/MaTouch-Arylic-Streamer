@@ -17,6 +17,8 @@ The Arylic streamer is equipped with a DAC for better audio signal quality.
 
 ![P1](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/e385b3d1-2654-480c-a8be-2c38a1824ce4)
 
+![P3](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/c9b01dd3-1fe4-4845-9f61-909fc81a62a3)
+
 ![P2](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/8d394757-95bf-4e37-9bca-c18acb44ea1f)
 
 
