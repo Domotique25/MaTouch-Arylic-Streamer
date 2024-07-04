@@ -22,4 +22,12 @@ The Arylic streamer is equipped with a DAC for better audio signal quality.
 ![P2](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/8d394757-95bf-4e37-9bca-c18acb44ea1f)
 
 
+Components :
+
+https://www.elektor.fr/products/matouch-esp32-s3-rotary-2-1-touch-display-st7701
+
+https://www.arylic.com/products/up2stream-pro-receiver-board
+
+https://www.arylic.com/products/expansion-boards
+
 
