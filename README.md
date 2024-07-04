@@ -9,6 +9,6 @@ The other features of the streamer can be accessed via wifi with the "STREAM" ap
 An interface card allows you to manage the power on or off of the streamer and future amps thanks to the I2C bus integrated into the MaTouch terminal.
 The Arylic streamer is equipped with a DAC for better audio signal quality.
 
-![image](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/a51a061b-4637-4d15-846e-3e2df4718413)
+![image](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/06f62265-aa90-423a-baf2-383187635206)
 
 
