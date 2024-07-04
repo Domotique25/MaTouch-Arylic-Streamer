@@ -10,7 +10,7 @@ This mock-up project uses a MaTouch ESP32-S3 rotating touchscreen to drive an Ar
 
 The other features of the streamer can be accessed via wifi with the "STREAM" app  
 
-An interface card allows you to manage the power on or off of the streamer and future amps thanks to the I2C bus integrated into the MaTouch terminal.
+An interface card allows to manage the power on or off of the streamer and future amps via the I2C bus integrated into the MaTouch terminal and adapds the differents levels (3.3V / 5V).
 The Arylic streamer is equipped with a DAC for better audio signal quality.
 
 ![image](https://github.com/Domotique25/MaTouch-Arylic-Streamer/assets/149935922/06f62265-aa90-423a-baf2-383187635206)
